@@ -34,8 +34,6 @@ class Image
     end
     return output_image
   end
-
-
 end
 image = Image.new([
   [0, 0, 0, 0],
